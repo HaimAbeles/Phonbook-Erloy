@@ -1,5 +1,6 @@
 import React from 'react';
 import { useEffect } from 'react';
+import {Linking} from 'react-native';
 
 export default function SinglePersonContact({ SelectedPhonbookData, setIndex, id, length }) {
     console.log(length)
@@ -17,6 +18,10 @@ export default function SinglePersonContact({ SelectedPhonbookData, setIndex, id
                     setIndex(prev => prev + 1);
                     break;
             }
+    }
+
+    function openCall(event) {debugger
+        Linking.openURL(`tel:${event.currentTarget.innerText.replaceAll('-', '')}`)
     }
 
     return (
@@ -37,11 +42,11 @@ export default function SinglePersonContact({ SelectedPhonbookData, setIndex, id
                 </div>
                 <div className="container-single-details">
                     <div>טלפון בית</div>
-                    <div>{SelectedPhonbookData.homePhone || 'אין במאגר'}</div>
+                    <div onClick={openCall}>{SelectedPhonbookData.homePhone || 'אין במאגר'}</div>
                 </div>                
                 <div className="container-single-details">
                     <div>נייד</div>
-                    <div>{SelectedPhonbookData.mobile || 'אין במאגר'}</div>
+                    <div onClick={openCall}>{SelectedPhonbookData.mobile || 'אין במאגר'}</div>
                 </div>
             </div>
             <div>
