@@ -95,8 +95,8 @@ export default function UploadUsers() {
           for (var j = 0; j < headers.length; j++) {
             obj[headers[j]] = currentline[j];
           }
-          obj.lastTitle = obj.lastTitle?.replaceAll('"', '').splice(-1, 0, "''");
-          obj.firstTitle = obj.firstTitle?.replaceAll('"', '').splice(-1, 0, "''");
+          obj.firstTitle = obj.firstTitle?.replaceAll('"', '').replaceAll('הרר', 'הר"ר').replaceAll('הרהצ', 'הרה"צ').replaceAll('אדמור', 'אדמו"ר');
+          obj.lastTitle = obj.lastTitle?.replaceAll('"', '').replaceAll('שליטא', 'שליט"א').replaceAll('היו', 'הי"ו');
           obj.firstName = obj.firstName?.replaceAll('""', "''").replaceAll('"', '');
           obj.address = obj.address?.replaceAll('"', '');
           result.push(obj);
