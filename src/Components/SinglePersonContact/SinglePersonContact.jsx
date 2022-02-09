@@ -6,23 +6,34 @@ import addressIcon from '../../Images/icons/address.png';
 import cityIcon from '../../Images/icons/city.png';
 import homePhoneIcon from '../../Images/icons/homePhone.png';
 import mobileIcon from '../../Images/icons/mobile.png';
-import FieldContact from '../FieldContact/FieldContact';
+import whatsappIcon from '../../Images/icons/WhatsApp.png';
+import gmailIcon from '../../Images/icons/gmail.png';
+import FieldContact from '../FieldContact/FieldContact.jsx';
+import ShareContact from '../ShareContact/ShareContact.jsx';
 
-export default function SinglePersonContact({ SelectedPhonbookData, length }) {
+export default function SinglePersonContact({ SelectedPhonbookData, length, id }) {
 
     function openCall(event) {
         Linking.openURL(`tel:${event.currentTarget.innerText.replaceAll('-', '')}`)
     }
 
     function sendContactWhatsapp() {
-        Linking.openURL(`https://wa.me/?text=${SelectedPhonbookData.firstTitle} ${SelectedPhonbookData.firstName} ${SelectedPhonbookData.lastName} ${SelectedPhonbookData.lastTitle}
-         נייד: ${SelectedPhonbookData.mobile} טלפון: ${SelectedPhonbookData.homePhone}`);
+        Linking.openURL(`https://wa.me/?text=${SelectedPhonbookData?.firstTitle || ''} ${SelectedPhonbookData?.firstName || ''} ${SelectedPhonbookData?.lastName || ''} ${SelectedPhonbookData?.lastTitle || ''}
+         נייד: ${SelectedPhonbookData?.mobile || ''} טלפון: ${SelectedPhonbookData?.homePhone || ''} 
+         *במידה ופרטי איש הקשר אינם תקינים אנא שלח מייל לכתובת a7112079@gmail.com`);
     }
+
+    function sendContactMail() {
+        Linking.openURL(`mailto:?subject=פרטי איש קשר ${SelectedPhonbookData?.firstTitle || ''} ${SelectedPhonbookData?.firstName || ''} ${SelectedPhonbookData?.lastName || ''} ${SelectedPhonbookData?.lastTitle || ''}
+        &body=נייד: ${SelectedPhonbookData?.mobile || ''} טלפון: ${SelectedPhonbookData?.homePhone || ''}
+        *במידה ופרטי איש הקשר אינם תקינים אנא שלח מייל לכתובת a7112079@gmail.com`);
+    }
+
     return (
         <div className="container-contact">
 
             <div className="box-contact">
-                {length <= 0 ?
+                {length < 0 || id == -1 ?
                     <div></div>
                     :
                     <>
@@ -36,7 +47,10 @@ export default function SinglePersonContact({ SelectedPhonbookData, length }) {
                     </>
                 }
             </div>
-
+            <div className="container-share-contact">
+                <ShareContact icon={whatsappIcon} onclickBtn={sendContactWhatsapp} />
+                <ShareContact icon={gmailIcon} onclickBtn={sendContactMail} />
+            </div>
             {/*
             <div>
                 <button onClick={sendContactWhatsapp}>שתף בווטסאפ</button>

@@ -11,7 +11,7 @@ import './PohnebookApp.css';
 
 export default function PohnebookApp() {
     const [phonbookData, SetPhonbookData] = useState(data);
-    const [id, SetId] = useState(0);
+    const [id, SetId] = useState(-1);
     const filterManager = useFilterContext();
 
     useEffect(() => {
@@ -20,7 +20,8 @@ export default function PohnebookApp() {
             x.city?.includes(filterManager.city) &&
             x.lastName?.includes(filterManager.lastName))
         SetPhonbookData(tempData);
-        SetId(0);
+        if(id != -1)
+            SetId(0);
     }, [filterManager]);
 
     return (
@@ -29,7 +30,7 @@ export default function PohnebookApp() {
                 <Logo />
                 <HeaderSearch />
                 <Navigation id={id} length={phonbookData.length - 1} setIndex={SetId} />
-                <SinglePersonContact SelectedPhonbookData={phonbookData[id]} length={phonbookData.length - 1} />
+                <SinglePersonContact SelectedPhonbookData={phonbookData[id]} id={id} length={phonbookData.length - 1} />
             </div>
         </>
     );

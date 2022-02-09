@@ -1,7 +1,9 @@
 .container-contact {
     height: 44%;
-    display: grid;
-    place-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .box-contact {
@@ -31,4 +33,12 @@
     height: 72%;
     display: grid;
     place-items: center;
+}
+
+.container-share-contact {
+    height: 20%;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
 }
