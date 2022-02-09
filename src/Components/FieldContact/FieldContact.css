@@ -1,0 +1,36 @@
+.field-contact {
+    width: 100%;
+    padding: 0 0.5em;
+    text-align: right;
+    display: flex;
+    align-items: center;
+}
+
+.container-icon {
+    display: inline-block;
+    width: 12%;
+}
+
+.icon-field {
+
+}
+
+.header-field {
+    width: 23%;
+    display: inline-block;
+}
+
+.field {
+    overflow: hidden;
+    white-space: nowrap;
+    width: 65%;
+    display: inline-block;
+}
+
+.link span {
+    border-bottom: 1px solid #007DC8;
+}
+
+.link {
+    height: 1.5em;
+}

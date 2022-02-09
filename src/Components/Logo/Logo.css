@@ -1,0 +1,11 @@
+.container-logo {
+    height: 19%;
+    width: 100%;
+    display: grid;
+    place-items: center;
+}
+
+.logo {
+    margin: auto;
+    display: block;
+}

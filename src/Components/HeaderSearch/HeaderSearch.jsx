@@ -1,6 +1,7 @@
 import React from 'react';
 import { useEffect } from 'react';
 import useFilterContext from '../../CustomHooks/UseFilterContext.jsx';
+import InputSearch from '../InputSearch/InputSearch.jsx';
 import './HeaderSearch.css';
 
 
@@ -26,12 +27,10 @@ export default function HeaderSearch() {
     }
 
     return (
-        <>
-            <div className="header-search">
-                <input className="search-field" type="text" name="firstName" value={filterManager.firstName} onChange={updateFilterFields} placeholder="שם פרטי" />
-                <input className="search-field" type="text" name="lastName" value={filterManager.lastName} onChange={updateFilterFields} placeholder="שם משפחה" />
-                <input className="search-field" type="text" name="city" value={filterManager.city} onChange={updateFilterFields} placeholder="עיר" />
-            </div>
-        </>
+        <div className="container-filter-inputs">
+            <InputSearch type="text" name="firstName" value={filterManager?.firstName} onChangeInput={updateFilterFields} placeholder="שם פרטי" />
+            <InputSearch type="text" name="lastName" value={filterManager?.lastName} onChangeInput={updateFilterFields} placeholder="שם משפחה" />
+            <InputSearch type="text" name="city" value={filterManager?.city} onChangeInput={updateFilterFields} placeholder="עיר" />
+        </div>
     );
 }

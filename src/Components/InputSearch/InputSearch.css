@@ -1,0 +1,26 @@
+.search-field {
+    width: 68%;
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0.5);
+    box-shadow: 0px 5px 24px rgba(0, 0, 0, 0.12);
+    border-radius: 10px;
+    height: 13%;
+    border: none;
+    outline: none;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    padding: 0 10px;
+    height: 2em;
+}
+
+.search-field:focus {
+    border: 1px solid #2b7da6;
+}
+
+.search-field::placeholder {
+    font-size: 14px;
+    line-height: 19px;
+    text-align: right;
+    color: #4A4A4A;
+}

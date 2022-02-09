@@ -1,0 +1,26 @@
+.container-navigation {
+    height: 10%;
+    display: grid;
+    place-items: center;
+}
+
+.base-navigation {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+}
+
+.txt-result {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
+    color: #003454;
+}
+
+.disabeld {
+    pointer-events: none;
+    opacity: 0.2;
+    cursor: not-allowed;
+}
