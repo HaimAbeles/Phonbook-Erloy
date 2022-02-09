@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/Phonbook-Erloy/static/css/main.18337050.chunk.css",
-    "main.js": "/Phonbook-Erloy/static/js/main.77a9a42c.chunk.js",
-    "main.js.map": "/Phonbook-Erloy/static/js/main.77a9a42c.chunk.js.map",
-    "runtime~main.js": "/Phonbook-Erloy/static/js/runtime~main.0a4143e7.js",
-    "runtime~main.js.map": "/Phonbook-Erloy/static/js/runtime~main.0a4143e7.js.map",
-    "static/js/2.1b3e8aca.chunk.js": "/Phonbook-Erloy/static/js/2.1b3e8aca.chunk.js",
-    "static/js/2.1b3e8aca.chunk.js.map": "/Phonbook-Erloy/static/js/2.1b3e8aca.chunk.js.map",
-    "static/js/3.c3bc911a.chunk.js": "/Phonbook-Erloy/static/js/3.c3bc911a.chunk.js",
-    "static/js/3.c3bc911a.chunk.js.map": "/Phonbook-Erloy/static/js/3.c3bc911a.chunk.js.map",
+    "main.css": "/Phonbook-Erloy/static/css/main.64ca1e6e.chunk.css",
+    "main.js": "/Phonbook-Erloy/static/js/main.e6f37d1d.chunk.js",
+    "main.js.map": "/Phonbook-Erloy/static/js/main.e6f37d1d.chunk.js.map",
+    "runtime~main.js": "/Phonbook-Erloy/static/js/runtime~main.08c5a7bd.js",
+    "runtime~main.js.map": "/Phonbook-Erloy/static/js/runtime~main.08c5a7bd.js.map",
+    "static/js/2.a9d8b184.chunk.js": "/Phonbook-Erloy/static/js/2.a9d8b184.chunk.js",
+    "static/js/2.a9d8b184.chunk.js.map": "/Phonbook-Erloy/static/js/2.a9d8b184.chunk.js.map",
+    "static/js/3.268c5232.chunk.js": "/Phonbook-Erloy/static/js/3.268c5232.chunk.js",
+    "static/js/3.268c5232.chunk.js.map": "/Phonbook-Erloy/static/js/3.268c5232.chunk.js.map",
     "index.html": "/Phonbook-Erloy/index.html",
-    "precache-manifest.8f874778e9bfa03eb7616b25467ef5f2.js": "/Phonbook-Erloy/precache-manifest.8f874778e9bfa03eb7616b25467ef5f2.js",
+    "precache-manifest.39bd685f7ada30274e041ac182e8b178.js": "/Phonbook-Erloy/precache-manifest.39bd685f7ada30274e041ac182e8b178.js",
     "service-worker.js": "/Phonbook-Erloy/service-worker.js",
-    "static/css/main.18337050.chunk.css.map": "/Phonbook-Erloy/static/css/main.18337050.chunk.css.map",
+    "static/css/main.64ca1e6e.chunk.css.map": "/Phonbook-Erloy/static/css/main.64ca1e6e.chunk.css.map",
+    "static/media/logo-big.png": "/Phonbook-Erloy/static/media/logo-big.b111a28f.png",
     "static/media/logo.png": "/Phonbook-Erloy/static/media/logo.50b8b069.png"
   }
 }
