@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../Images/logo.png';
+import logo from '../../Images/logo-big.png';
 import './HelloApp.css';
 
 export default function HelloApp() {

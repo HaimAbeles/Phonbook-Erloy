@@ -9,12 +9,6 @@ import mobileIcon from '../../Images/icons/mobile.png';
 import FieldContact from '../FieldContact/FieldContact';
 
 export default function SinglePersonContact({ SelectedPhonbookData, length }) {
-    console.log(length)
-    useEffect(() => {
-        console.log(SelectedPhonbookData);
-    }, [SelectedPhonbookData]);
-
-
 
     function openCall(event) {
         Linking.openURL(`tel:${event.currentTarget.innerText.replaceAll('-', '')}`)
@@ -24,7 +18,6 @@ export default function SinglePersonContact({ SelectedPhonbookData, length }) {
         Linking.openURL(`https://wa.me/?text=${SelectedPhonbookData.firstTitle} ${SelectedPhonbookData.firstName} ${SelectedPhonbookData.lastName} ${SelectedPhonbookData.lastTitle}
          נייד: ${SelectedPhonbookData.mobile} טלפון: ${SelectedPhonbookData.homePhone}`);
     }
-    console.log('length', length)
     return (
         <div className="container-contact">
 

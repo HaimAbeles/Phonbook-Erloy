@@ -19,12 +19,10 @@ export default function UploadUsers() {
     //       /* Get first worksheet */
     //       const wsname = wb.SheetNames[0];
     //       const ws = wb.Sheets[wsname];
-    //       //console.log(rABS, wb);
     //       /* Convert array of arrays */
     //       const data = XLSX.utils.sheet_to_json(ws, { header: 1 });
     //       /* Update state */
     //       setData(data);
-    //       console.log(data)
     //       debugger
     //     };
     //     if (rABS) reader.readAsBinaryString(file);
@@ -51,20 +49,13 @@ export default function UploadUsers() {
         e.stopPropagation();
         e.preventDefault();
         var file = e.target.files[0];
-        console.log(file);
         setFileValue(file);
-        console.log(file);
       }
 
       useEffect(() => {
         readFile();
       }, [fileValue]);
 
-      useEffect(() => {
-        if(!data) return;
-        console.log(JSON.stringify(data));
-      }, [data]);
-    
       function readFile() {
         if(!fileValue) return;
         var f = fileValue;
@@ -81,7 +72,6 @@ export default function UploadUsers() {
           /* Convert array of arrays */
           const data = XLSX.utils.sheet_to_csv(ws, { header: 1 });
           /* Update state */
-          console.log("Data>>>" + data);// shows that excel data is read
           setData(convertToJson(data)); // shows data in json format
         };
         reader.readAsBinaryString(f);

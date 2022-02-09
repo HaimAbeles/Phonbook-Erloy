@@ -19,7 +19,7 @@
     color: #003454;
 }
 
-.arrow-img:active {
+.arrow-img:not(.disabeld):active {
     opacity: 0.6;
 }
 

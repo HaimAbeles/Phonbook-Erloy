@@ -23,10 +23,6 @@ export default function PohnebookApp() {
         SetId(0);
     }, [filterManager]);
 
-    useEffect(() => {
-        console.log(phonbookData);
-    }, [phonbookData]);
-
     return (
         <>
             <div className="root-app">

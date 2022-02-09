@@ -16,7 +16,7 @@
 }
 
 .name-contact {
-    height: 20%;
+    height: 28%;
     display: grid;
     place-items: center;
     font-family: Open Sans;
@@ -28,7 +28,7 @@
 }
 
 .container-fields-contact {
-    height: 80%;
+    height: 72%;
     display: grid;
     place-items: center;
 }

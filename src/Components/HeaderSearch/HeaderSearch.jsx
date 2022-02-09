@@ -8,10 +8,6 @@ import './HeaderSearch.css';
 export default function HeaderSearch() {
     const filterManager = useFilterContext();
 
-    useEffect(() => {
-        console.log(filterManager)
-    }, [filterManager])
-
     function updateFilterFields(event) {
         switch (event.currentTarget.name) {
             case "firstName":
