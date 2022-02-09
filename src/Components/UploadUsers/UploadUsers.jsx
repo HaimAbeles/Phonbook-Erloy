@@ -56,6 +56,11 @@ export default function UploadUsers() {
         readFile();
       }, [fileValue]);
 
+      useEffect(() => {
+        if(!data) return;
+        console.log(JSON.stringify(data));
+      }, [data]);
+
       function readFile() {
         if(!fileValue) return;
         var f = fileValue;
@@ -92,6 +97,7 @@ export default function UploadUsers() {
           }
           obj.lastTitle = obj.lastTitle?.replaceAll('"', '').splice(-1, 0, "''");
           obj.firstTitle = obj.firstTitle?.replaceAll('"', '').splice(-1, 0, "''");
+          obj.firstName = obj.firstName?.replaceAll('""', "''").replaceAll('"', '');
           obj.address = obj.address?.replaceAll('"', '');
           result.push(obj);
         }
