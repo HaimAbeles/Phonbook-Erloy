@@ -20,9 +20,9 @@ export default function Navigation({ id, length, setIndex }) {
     return (
         <div className="container-navigation">
             <div className="base-navigation">
-                <img className="arrow-img" src={rightArrow} onClick={updateCard} className={`btn-move ${id <= 0 ? 'disabeld' : ''}`} name="prev"></img>
+                <img src={rightArrow} onClick={updateCard} className={`arrow-img ${id <= 0 ? 'disabeld' : ''}`} name="prev"></img>
                 <div className="txt-result">{length >= 0 ? `תוצאה ${id + 1} מתוך ${length + 1}` : 'אין תוצאות'}</div>
-                <img className="arrow-img" src={leftArrow} onClick={updateCard} className={`btn-move ${id >= length ? 'disabeld' : ''}`} name="next"></img>
+                <img src={leftArrow} onClick={updateCard} className={`arrow-img ${id >= length ? 'disabeld' : ''}`} name="next"></img>
             </div>
         </div>
     );

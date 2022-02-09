@@ -19,6 +19,10 @@
     color: #003454;
 }
 
+.arrow-img:active {
+    opacity: 0.6;
+}
+
 .disabeld {
     pointer-events: none;
     opacity: 0.2;

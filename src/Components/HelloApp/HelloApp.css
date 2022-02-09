@@ -1,0 +1,33 @@
+.container-Hello-app {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-items: center;
+    animation-name: helloApp;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    transition-timing-function: ease-in-out;
+}
+
+.Hello-app {
+    width: 100%;
+}
+
+.txt-Hello-app {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #906149;
+    animation-name: helloApp;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    transition-timing-function: ease-in-out;
+}
+
+@keyframes helloApp {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
