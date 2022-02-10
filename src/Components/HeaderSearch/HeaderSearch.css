@@ -5,3 +5,9 @@
     align-content: space-around;
     justify-content: space-evenly;
 }
+
+@media only screen and (orientation: landscape) {
+    .container-filter-inputs {
+        height: 41%;
+    }
+}

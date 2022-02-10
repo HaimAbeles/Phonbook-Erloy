@@ -9,3 +9,15 @@
     margin: auto;
     display: block;
 }
+
+@media only screen and (orientation: landscape) {
+    .container-logo {
+        height: 0;
+    }
+    .logo {
+        position: relative;
+        top: 20%;
+        opacity: 0.4;
+        z-index: -1;
+    }
+}

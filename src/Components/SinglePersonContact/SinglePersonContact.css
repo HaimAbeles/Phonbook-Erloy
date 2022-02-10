@@ -31,8 +31,9 @@
 
 .container-fields-contact {
     height: 72%;
-    display: grid;
-    place-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .container-share-contact {

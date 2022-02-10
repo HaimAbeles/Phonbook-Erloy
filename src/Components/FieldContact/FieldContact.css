@@ -43,3 +43,10 @@
     color: #fff;
     border-radius: 5px;
 }
+
+
+@media only screen and (orientation: landscape) {
+    .field-contact {
+        width: 50%;
+    }
+}
