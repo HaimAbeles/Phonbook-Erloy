@@ -43,3 +43,9 @@
     width: 100%;
     justify-content: center;
 }
+
+@media only screen and (orientation: landscape) {
+    .container-contact {
+        height: 54%;
+    }
+}
