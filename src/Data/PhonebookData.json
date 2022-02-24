@@ -293,11 +293,24 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "משמר העם 10/7",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93326",
-          "mobile": ""
+          "address": "משמר העם 10/7 קטמון",
+          "city": "ירושלים",
+          "zip": "93326",
+          "homePhone": "",
+          "mobile": "053-3115967"
+        },
+        {
+          "state": "א",
+          "lastName": "אברהם",
+          "firstName": "שמואל",
+          "firstTitle": "הר\"ר",
+          "lastTitle": "הי\"ו",
+          "familyTitle": "ומשפ'",
+          "address": "אבן גבירול 7/4",
+          "city": "אלעד",
+          "zip": "",
+          "homePhone": "",
+          "mobile": "0583201834"
         },
         {
           "state": "א",
@@ -358,11 +371,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "הרב ברים 16/6",
-          "city": " רמת שלמה\"",
-          "zip": "ירושלים",
-          "homePhone": "97426",
-          "mobile": "02-5865969"
+          "address": "הרב ברים 16/6 רמת שלמה",
+          "city": "ירושלים",
+          "zip": "97426",
+          "homePhone": "02-5865969",
+          "mobile": "052-7618950"
         },
         {
           "state": "א",
@@ -462,11 +475,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "טללים 23 כניסה ד'",
-          "city": " רמות\"",
-          "zip": "ירושלים",
+          "address": "טללים 23 כניסה ד' רמות",
+          "city": "ירושלים",
+          "zip": "",
           "homePhone": "",
-          "mobile": ""
+          "mobile": "052-7600991"
         },
         {
           "state": "ב",
@@ -761,10 +774,10 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "בילו 5",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93221",
+          "address": "בילו 5 קטמון",
+          "city": "ירושלים",
+          "zip": "93221",
+          "homePhone": "",
           "mobile": ""
         },
         {
@@ -1569,7 +1582,7 @@
           "familyTitle": "ומשפ'",
           "address": "Belgielei 148",
           "city": "אנטווערפן - בלגיה",
-          "zip": "",
+          "zip": "2018",
           "homePhone": "003232391154",
           "mobile": "0032486894995"
         },
@@ -1749,11 +1762,11 @@
           "firstTitle": "הרב",
           "lastTitle": "שליט\"א",
           "familyTitle": "ומשפ'",
-          "address": "הגדנע 7",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93232",
-          "mobile": "077-5634570"
+          "address": "הגדנע 7 קטמון",
+          "city": "ירושלים",
+          "zip": "93232",
+          "homePhone": "077-5634570",
+          "mobile": "052-7672975"
         },
         {
           "state": "א",
@@ -2399,11 +2412,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "בילו 16",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "932211",
-          "mobile": "02-5630572"
+          "address": "בילו 16 קטמון",
+          "city": "ירושלים",
+          "zip": "932211",
+          "homePhone": "02-5630572",
+          "mobile": "052-7632250"
         },
         {
           "state": "א",
@@ -2529,11 +2542,11 @@
           "firstTitle": "הרהג",
           "lastTitle": "שליט\"א",
           "familyTitle": "ומשפ'",
-          "address": "רביבים 27/26",
-          "city": " רמות א'\"",
-          "zip": "ירושלים",
-          "homePhone": "97731",
-          "mobile": "02-5860127"
+          "address": "רביבים 27/26 רמות א'",
+          "city": "ירושלים",
+          "zip": "97731",
+          "homePhone": "02-5860127",
+          "mobile": ""
         },
         {
           "state": "ב",
@@ -2672,11 +2685,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "הגדנע 7/1",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "9323207",
-          "mobile": "02-5610877"
+          "address": "הגדנע 7/1 קטמון",
+          "city": "ירושלים",
+          "zip": "9323207",
+          "homePhone": "02-5610877",
+          "mobile": ""
         },
         {
           "state": "א",
@@ -2724,11 +2737,11 @@
           "firstTitle": "משפחת",
           "lastTitle": "הי\"ו",
           "familyTitle": "",
-          "address": "בילו 5",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93221",
-          "mobile": "02-5666174"
+          "address": "בילו 5 קטמון",
+          "city": "ירושלים",
+          "zip": "93221",
+          "homePhone": "02-5666174",
+          "mobile": "054-8425174"
         },
         {
           "state": "א",
@@ -3010,11 +3023,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "בילו 7",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93221",
-          "mobile": "02-5617984"
+          "address": "בילו 7 קטמון",
+          "city": "ירושלים",
+          "zip": "93221",
+          "homePhone": "02-5617984",
+          "mobile": "052-7672203"
         },
         {
           "state": "א",
@@ -3283,11 +3296,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "האור 3",
-          "city": " כניסה ב' \"",
-          "zip": "ירושלים",
-          "homePhone": "94386",
-          "mobile": "077-5009362"
+          "address": "האור 3 כניסה ב'",
+          "city": "ירושלים",
+          "zip": "94386",
+          "homePhone": "077-5009362",
+          "mobile": "052-7170687"
         },
         {
           "state": "א",
@@ -3361,11 +3374,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "ברוריה 14",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
+          "address": "ברוריה 14 קטמון",
+          "city": "ירושלים",
+          "zip": "",
           "homePhone": "",
-          "mobile": ""
+          "mobile": "054-8426285"
         },
         {
           "state": "א",
@@ -3452,11 +3465,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "הגדנע 11",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
+          "address": "הגדנע 11 קטמון",
+          "city": "ירושלים",
+          "zip": "",
           "homePhone": "",
-          "mobile": ""
+          "mobile": "054-8451054"
         },
         {
           "state": "משפחה",
@@ -3467,7 +3480,7 @@
           "familyTitle": "ומשפ'",
           "address": "Van Leriusstraat 5",
           "city": "אנטווערפן - בלגיה",
-          "zip": "",
+          "zip": "2018",
           "homePhone": "003232187042",
           "mobile": "0032476233295"
         },
@@ -3517,11 +3530,11 @@
           "firstTitle": "הרב",
           "lastTitle": "שליט\"א",
           "familyTitle": "ומשפ'",
-          "address": "רות 1",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93101",
-          "mobile": "02-5669728"
+          "address": "רות 1 קטמון",
+          "city": "ירושלים",
+          "zip": "93101",
+          "homePhone": "02-5669728",
+          "mobile": "054-8443000"
         },
         {
           "state": "ב",
@@ -3621,10 +3634,10 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "דוסתאי 5",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93181",
+          "address": "דוסתאי 5 קטמון",
+          "city": "ירושלים",
+          "zip": "93181",
+          "homePhone": "",
           "mobile": ""
         },
         {
@@ -3686,11 +3699,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "יהושע בן נון 24/2 א'",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "9314544",
-          "mobile": ""
+          "address": "יהושע בן נון 24/2 א' קטמון",
+          "city": "ירושלים",
+          "zip": "9314544",
+          "homePhone": "",
+          "mobile": "054-8460000"
         },
         {
           "state": "ב",
@@ -3725,11 +3738,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "החיש 11",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "",
-          "mobile": "072-2986067"
+          "address": "החיש 11 קטמון",
+          "city": "ירושלים",
+          "zip": "",
+          "homePhone": "072-2986067",
+          "mobile": "054-8446336"
         },
         {
           "state": "משפחה",
@@ -4037,11 +4050,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "ברוריה 14/5",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
+          "address": "ברוריה 14/5 קטמון",
+          "city": "ירושלים",
+          "zip": "",
           "homePhone": "",
-          "mobile": ""
+          "mobile": "052-7631167"
         },
         {
           "state": "א",
@@ -4258,11 +4271,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "עוזיהו 17/7",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
+          "address": "עוזיהו 17/7 קטמון",
+          "city": "ירושלים",
+          "zip": "",
           "homePhone": "",
-          "mobile": ""
+          "mobile": "050-4116890"
         },
         {
           "state": "א",
@@ -4284,11 +4297,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "ברורי-ה 3/4",
-          "city": " כניסה ב'\"",
-          "zip": "ירושלים",
-          "homePhone": "93184",
-          "mobile": ""
+          "address": "ברורי-ה 3/4 כניסה ב'",
+          "city": "ירושלים",
+          "zip": "93184",
+          "homePhone": "",
+          "mobile": "058-3233802"
         },
         {
           "state": "א",
@@ -4310,11 +4323,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "הלה 27",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
+          "address": "הלה 27 קטמון",
+          "city": "ירושלים",
+          "zip": "",
           "homePhone": "",
-          "mobile": ""
+          "mobile": "058-3235857"
         },
         {
           "state": "א",
@@ -4349,11 +4362,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "משמר העם 11",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93226",
-          "mobile": "02-5663940"
+          "address": "משמר העם 11 קטמון",
+          "city": "ירושלים",
+          "zip": "93226",
+          "homePhone": "02-5663940",
+          "mobile": "054-8446010"
         },
         {
           "state": "א",
@@ -5220,11 +5233,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "משמר העם 10",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93326",
-          "mobile": "02-5632265"
+          "address": "משמר העם 10 קטמון",
+          "city": "ירושלים",
+          "zip": "93326",
+          "homePhone": "02-5632265",
+          "mobile": "052-7184460"
         },
         {
           "state": "א",
@@ -5519,11 +5532,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "כובשי קטמון 23",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93230",
-          "mobile": "02-5617203"
+          "address": "כובשי קטמון 23 קטמון",
+          "city": "ירושלים",
+          "zip": "93230",
+          "homePhone": "02-5617203",
+          "mobile": "054-8496108"
         },
         {
           "state": "א",
@@ -5935,11 +5948,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "מחלקי המים 15",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93222",
-          "mobile": "077-7801512"
+          "address": "מחלקי המים 15 קטמון",
+          "city": "ירושלים",
+          "zip": "93222",
+          "homePhone": "077-7801512",
+          "mobile": "054-8442250"
         },
         {
           "state": "א",
@@ -6169,11 +6182,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "עוזיה 17",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93143",
-          "mobile": "077-2400566"
+          "address": "עוזיה 17 קטמון",
+          "city": "ירושלים",
+          "zip": "93143",
+          "homePhone": "077-2400566",
+          "mobile": "052-7628542"
         },
         {
           "state": "א",
@@ -6208,11 +6221,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "הגדנע  7/2",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93232",
-          "mobile": "02-5660054"
+          "address": "הגדנע  7/2 קטמון",
+          "city": "ירושלים",
+          "zip": "93232",
+          "homePhone": "02-5660054",
+          "mobile": "052-7672200"
         },
         {
           "state": "א",
@@ -6234,11 +6247,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "עוזיה 15/7",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93143",
-          "mobile": "02-5630422"
+          "address": "עוזיה 15/7 קטמון",
+          "city": "ירושלים",
+          "zip": "93143",
+          "homePhone": "02-5630422",
+          "mobile": "052-7660270"
         },
         {
           "state": "א",
@@ -6559,11 +6572,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "עוזיה 17",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93143",
-          "mobile": "02-5660595"
+          "address": "עוזיה 17 קטמון",
+          "city": "ירושלים",
+          "zip": "93143",
+          "homePhone": "02-5660595",
+          "mobile": "052-7629333"
         },
         {
           "state": "א",
@@ -6572,11 +6585,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "מורגנטאו 26/6",
-          "city": " רמות א'\"",
-          "zip": "ירושלים",
-          "homePhone": "9722268",
-          "mobile": ""
+          "address": "מורגנטאו 26/6 רמות א'",
+          "city": "ירושלים",
+          "zip": "9722268",
+          "homePhone": "",
+          "mobile": "053-3143690"
         },
         {
           "state": "א",
@@ -6585,10 +6598,10 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "מורגנטאו 26/6",
-          "city": " רמות א'\"",
-          "zip": "ירושלים",
-          "homePhone": "9722268",
+          "address": "מורגנטאו 26/6 רמות א'",
+          "city": "ירושלים",
+          "zip": "9722268",
+          "homePhone": "",
           "mobile": ""
         },
         {
@@ -6637,11 +6650,11 @@
           "firstTitle": "הרב",
           "lastTitle": "שליט\"א",
           "familyTitle": "ומשפ'",
-          "address": "הגדנע  7/4",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93232",
-          "mobile": "02-5639767"
+          "address": "הגדנע  7/4 קטמון",
+          "city": "ירושלים",
+          "zip": "93232",
+          "homePhone": "02-5639767",
+          "mobile": "052-7685411"
         },
         {
           "state": "א",
@@ -7248,11 +7261,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "חיל נשים 6/1",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93320",
-          "mobile": ""
+          "address": "חיל נשים 6/1 קטמון",
+          "city": "ירושלים",
+          "zip": "93320",
+          "homePhone": "",
+          "mobile": "052-7142489"
         },
         {
           "state": "א",
@@ -7287,8 +7300,8 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "ברוריה 5",
-          "city": " קטמון\"",
+          "address": "ברוריה 5 קטמון",
+          "city": "",
           "zip": "ירושלים",
           "homePhone": "",
           "mobile": ""
@@ -7300,9 +7313,9 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "ברוריה 5",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
+          "address": "ברוריה 5 קטמון",
+          "city": "ירושלים",
+          "zip": "",
           "homePhone": "",
           "mobile": "058-3250847"
         },
@@ -7365,11 +7378,11 @@
           "firstTitle": "הרה\"צ",
           "lastTitle": "שליט\"א",
           "familyTitle": "\"שליט\"\"א ומשפ'\"",
-          "address": "בילו 5",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93221",
-          "mobile": "02-5639516"
+          "address": "בילו 5 קטמון",
+          "city": "ירושלים",
+          "zip": "93221",
+          "homePhone": "02-5639516",
+          "mobile": ""
         },
         {
           "state": "משפחה",
@@ -7378,11 +7391,11 @@
           "firstTitle": "הרב",
           "lastTitle": "שליט\"א",
           "familyTitle": "ומשפ'",
-          "address": "הרב טולדינו 26/15",
-          "city": " רמת שלמה\"",
-          "zip": "ירושלים",
+          "address": "הרב טולדינו 26/15 רמת שלמה",
+          "city": "ירושלים",
+          "zip": "",
           "homePhone": "",
-          "mobile": ""
+          "mobile": "053-4186357"
         },
         {
           "state": "\"הרה\"\"צ\"",
@@ -7562,7 +7575,7 @@
           "familyTitle": "ומשפ'",
           "address": "Lange leemstraat 136",
           "city": "אנטווערפן - בלגיה",
-          "zip": "",
+          "zip": "2018",
           "homePhone": "003232391699",
           "mobile": "0032484503038"
         },
@@ -7781,11 +7794,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "יותם 2",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
+          "address": "יותם 2 קטמון",
+          "city": "ירושלים",
+          "zip": "",
           "homePhone": "",
-          "mobile": ""
+          "mobile": "052-7183334"
         },
         {
           "state": "א",
@@ -8095,7 +8108,7 @@
           "familyTitle": "ומשפ'",
           "address": "Brialmontlei 23",
           "city": "אנטווערפן - בלגיה",
-          "zip": "",
+          "zip": "2018",
           "homePhone": "003232306654",
           "mobile": "0032483064545"
         },
@@ -8145,9 +8158,9 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "דוסתאי 5",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
+          "address": "דוסתאי 5 קטמון",
+          "city": "ירושלים",
+          "zip": "93181",
           "homePhone": "02-5662859",
           "mobile": "053-7566285"
         },
@@ -8171,11 +8184,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "חזקיהו המלך 33",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93190",
-          "mobile": "077-9163514"
+          "address": "חזקיהו המלך 33 קטמון",
+          "city": "ירושלים",
+          "zip": "93190",
+          "homePhone": "077-9163514",
+          "mobile": "052-7618895"
         },
         {
           "state": "א",
@@ -8301,11 +8314,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "באכר זאב 7",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "",
-          "mobile": "073-7324447"
+          "address": "באכר זאב 7 קטמון",
+          "city": "ירושלים",
+          "zip": "",
+          "homePhone": "073-7324447",
+          "mobile": "052-7672210"
         },
         {
           "state": "א",
@@ -8535,11 +8548,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "הרב ברים 4",
-          "city": " רמת שלמה\"",
-          "zip": "ירושלים",
-          "homePhone": "97426",
-          "mobile": "02-5807778"
+          "address": "הרב ברים 4 רמת שלמה",
+          "city": "ירושלים",
+          "zip": "97426",
+          "homePhone": "02-5807778",
+          "mobile": "050-4104444"
         },
         {
           "state": "ב",
@@ -8730,11 +8743,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "עוזיה 13",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93143",
-          "mobile": ""
+          "address": "עוזיה 13 קטמון",
+          "city": "ירושלים",
+          "zip": "93143",
+          "homePhone": "",
+          "mobile": "054-8452523"
         },
         {
           "state": "א",
@@ -8912,11 +8925,11 @@
           "firstTitle": "הרב",
           "lastTitle": "שליט\"א",
           "familyTitle": "ומשפ'",
-          "address": "הגדנע 7/3",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "9323207",
-          "mobile": "02-5634794"
+          "address": "הגדנע 7/3 קטמון",
+          "city": "ירושלים",
+          "zip": "9323207",
+          "homePhone": "02-5634794",
+          "mobile": "052-7678826"
         },
         {
           "state": "משפחה",
@@ -9016,11 +9029,11 @@
           "firstTitle": "הרב",
           "lastTitle": "שליט\"א",
           "familyTitle": "ומשפ'",
-          "address": "בר ניסן 2",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "92109",
-          "mobile": "02-6256321"
+          "address": "בר ניסן 2 קטמון",
+          "city": "ירושלים",
+          "zip": "92109",
+          "homePhone": "02-6256321",
+          "mobile": "052-7654271"
         },
         {
           "state": "א",
@@ -9458,11 +9471,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "דוסתאי 5",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "",
-          "mobile": "077-7897524"
+          "address": "דוסתאי 5 קטמון",
+          "city": "ירושלים",
+          "zip": "",
+          "homePhone": "077-7897524",
+          "mobile": "050-4135739"
         },
         {
           "state": "ב",
@@ -9978,11 +9991,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "פרופס 1",
-          "city": " רמות א'\"",
-          "zip": "ירושלים",
-          "homePhone": "97735",
-          "mobile": "077-7861186"
+          "address": "פרופס 1 רמות א'",
+          "city": "ירושלים",
+          "zip": "97735",
+          "homePhone": "077-7861186",
+          "mobile": "054-8482929"
         },
         {
           "state": "א",
@@ -10108,11 +10121,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "חזקיהו המלך 55",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "",
-          "mobile": "02-5804238"
+          "address": "חזקיהו המלך 55 קטמון",
+          "city": "ירושלים",
+          "zip": "",
+          "homePhone": "02-5804238",
+          "mobile": "052-7635005"
         },
         {
           "state": "א",
@@ -10121,11 +10134,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "חיל נשים 6",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
+          "address": "חיל נשים 6 קטמון",
+          "city": "ירושלים",
+          "zip": "",
           "homePhone": "",
-          "mobile": ""
+          "mobile": "054-8571100"
         },
         {
           "state": "א",
@@ -10381,11 +10394,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "קהילות יעקב 26",
-          "city": " רמת שלמה\"",
-          "zip": "ירושלים",
-          "homePhone": "9743600",
-          "mobile": "02-5713423"
+          "address": "קהילות יעקב 26 רמת שלמה",
+          "city": "ירושלים",
+          "zip": "9743600",
+          "homePhone": "02-5713423",
+          "mobile": "050-4196966"
         },
         {
           "state": "א",
@@ -10693,11 +10706,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "עוזיה 17",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93143",
-          "mobile": "02-5024646"
+          "address": "עוזיה 17 קטמון",
+          "city": "ירושלים",
+          "zip": "93143",
+          "homePhone": "02-5024646",
+          "mobile": "050-4129279"
         },
         {
           "state": "א",
@@ -10968,7 +10981,7 @@
           "familyTitle": "ומשפ'",
           "address": "Charlottalei",
           "city": "אנטווערפן - בלגיה",
-          "zip": "",
+          "zip": "2018",
           "homePhone": "",
           "mobile": "0032486743198"
         },
@@ -11020,7 +11033,7 @@
           "familyTitle": "ומשפ'",
           "address": "Grotehondstraat 30",
           "city": "אנטווערפן - בלגיה",
-          "zip": "",
+          "zip": "2018",
           "homePhone": "003232304142",
           "mobile": "0032477252563"
         },
@@ -11213,10 +11226,10 @@
           "firstTitle": "הרב",
           "lastTitle": "שליט\"א",
           "familyTitle": "ומשפ'",
-          "address": "חזקיהו המלך 41",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93101",
+          "address": "חזקיהו המלך 41 קטמון",
+          "city": "ירושלים",
+          "zip": "93101",
+          "homePhone": "",
           "mobile": "058-3292034"
         },
         {
@@ -11239,11 +11252,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "משמר העם 10",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93326",
-          "mobile": "02-5617458"
+          "address": "משמר העם 10 קטמון",
+          "city": "ירושלים",
+          "zip": "93326",
+          "homePhone": "02-5617458",
+          "mobile": ""
         },
         {
           "state": "א",
@@ -11655,11 +11668,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "משמר העם 10/5",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "9322610",
-          "mobile": ""
+          "address": "משמר העם 10/5 קטמון",
+          "city": "ירושלים",
+          "zip": "9322610",
+          "homePhone": "",
+          "mobile": "053-3109449"
         },
         {
           "state": "א",
@@ -11748,7 +11761,7 @@
           "familyTitle": "ומשפ'",
           "address": "Baro joosten 5",
           "city": "אנטווערפן - בלגיה",
-          "zip": "",
+          "zip": "2018",
           "homePhone": "",
           "mobile": "0032496838298"
         },
@@ -11798,11 +11811,11 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "הי\"ו",
           "familyTitle": "ומשפ'",
-          "address": "עוזיה 17/2",
-          "city": " קטמון\"",
-          "zip": "ירושלים",
-          "homePhone": "93143",
-          "mobile": "02-5632586"
+          "address": "עוזיה 17/2 קטמון",
+          "city": "ירושלים",
+          "zip": "93143",
+          "homePhone": "02-5632586",
+          "mobile": "052-7635007"
         },
         {
           "state": "א",
@@ -11863,9 +11876,9 @@
           "firstTitle": "הר\"ר",
           "lastTitle": "שליט\"א",
           "familyTitle": "ומשפ'",
-          "address": "Van die penbeek 75",
+          "address": "Van dipenbeeckstraat 75",
           "city": "אנטווערפן - בלגיה",
-          "zip": "",
+          "zip": "2018",
           "homePhone": "",
           "mobile": "0032486734075"
         },
