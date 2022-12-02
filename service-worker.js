@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Phonbook-Erloy/precache-manifest.736c473647e7bfc6037a11493fc764cf.js"
+  "/Phonbook-Erloy/precache-manifest.702347e2b6e8d87354ca2d8954927710.js"
 );
 
 self.addEventListener('message', (event) => {
