@@ -2,7 +2,7 @@ import React from 'react';
 import HeaderSearch from '../HeaderSearch/HeaderSearch.jsx';
 import SinglePersonContact from '../SinglePersonContact/SinglePersonContact.jsx';
 import useFilterContext from '../../CustomHooks/UseFilterContext.jsx';
-import { data } from '../../Data/PhonebookData.json';
+import { phonebookData } from '../../Data/PhonebookData.json';
 import { useState } from 'react';
 import { useEffect } from 'react';
 import Logo from '../Logo/Logo.jsx';
@@ -10,12 +10,12 @@ import Navigation from '../Navigation/Navigation.jsx';
 import './PohnebookApp.css';
 
 export default function PohnebookApp() {
-    const [phonbookData, SetPhonbookData] = useState(data);
+    const [phonbookData, SetPhonbookData] = useState(phonebookData);
     const [id, SetId] = useState(0);
     const filterManager = useFilterContext();
 
     useEffect(() => {
-        const tempData = data.filter(x =>
+        const tempData = phonebookData.filter(x =>
             x.firstName?.includes(filterManager.firstName) &&
             x.city?.includes(filterManager.city) &&
             x.lastName?.includes(filterManager.lastName))
