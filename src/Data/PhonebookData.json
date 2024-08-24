@@ -1,6 +1,19 @@
 {
   "phonebookData": [
     {
+      "state": "",
+      "lastName": "ישראלי",
+      "firstName": "ישראל",
+      "firstTitle": "הר\"ר",
+      "lastTitle": "הי\"ו",
+      "familyTitle": "ומשפ'",
+      "address": "יותם 1",
+      "city": "ירושלים",
+      "zip": "1111111",
+      "homePhone": "02-5000000",
+      "mobile": "050-000000"
+    },
+    {
       "lastName": "אבלס",
       "firstName": "אברהם שמואל",
       "firstTitle": "הר\"ר",
@@ -5413,19 +5426,6 @@
       "zip": "9050000",
       "homePhone": "02-5806535",
       "mobile": ""
-    },
-    {
-      "state": "",
-      "lastName": "ישראלי",
-      "firstName": "ישראל",
-      "firstTitle": "הר\"ר",
-      "lastTitle": "הי\"ו",
-      "familyTitle": "ומשפ'",
-      "address": "יותם 1",
-      "city": "ירושלים",
-      "zip": "1111111",
-      "homePhone": "02-5000000",
-      "mobile": "050-000000"
     },
     {
       "lastName": "כהן",
