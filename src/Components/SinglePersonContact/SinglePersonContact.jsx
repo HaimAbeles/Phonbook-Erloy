@@ -47,10 +47,10 @@ export default function SinglePersonContact({ SelectedPhonbookData, length, id }
                     </>
                 }
             </div>
-            <div className="container-share-contact">
+            {/* <div className="container-share-contact">
                 <ShareContact icon={whatsappIcon} onclickBtn={sendContactWhatsapp} />
                 <ShareContact icon={gmailIcon} onclickBtn={sendContactMail} />
-            </div>
+            </div> */}
             {/*
             <div>
                 <button onClick={sendContactWhatsapp}>שתף בווטסאפ</button>

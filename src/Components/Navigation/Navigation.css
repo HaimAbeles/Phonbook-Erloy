@@ -1,5 +1,6 @@
 .container-navigation {
-    height: 10%;
+    height: 30px;
+    margin-block: 41px 37px;
     display: grid;
     place-items: center;
 }

@@ -1,17 +1,17 @@
 .search-field {
     width: 68%;
-    margin: 0 auto;
+    margin-inline: auto;
+    margin-bottom: 26px;
     background: rgba(255, 255, 255, 0.5);
     box-shadow: 0px 5px 24px rgba(0, 0, 0, 0.12);
     border-radius: 10px;
-    height: 13%;
     border: none;
     outline: none;
     font-family: Open Sans;
     font-style: normal;
     font-weight: normal;
     padding: 0 10px;
-    height: 2em;
+    height: 29px;
 }
 
 .search-field:focus {
