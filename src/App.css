@@ -38,3 +38,9 @@
     transform: rotate(360deg);
   }
 }
+
+@media (max-width: 600px) {
+  html {
+    font-size: calc(16px + (100vw - 390px) * 0.0282);
+  }
+}

@@ -22,9 +22,8 @@
     display: grid;
     place-items: center;
     font-family: Open Sans;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 1.3em;
+    font-size: 1.143rem;
+    font-weight: 700;
     text-align: center;
     color: #007DC8;
 }
