@@ -29,6 +29,15 @@ export default function SinglePersonContact({ SelectedPhonbookData, length, id }
         *במידה ופרטי איש הקשר אינם תקינים אנא שלח מייל לכתובת a7112079@gmail.com`);
     }
 
+
+    const formatAddress = (address) => {
+        return address.split('/')[0].trim();
+    };
+
+    function openWaze() {
+        Linking.openURL(`https://waze.com/ul?q=${encodeURIComponent(formatAddress(SelectedPhonbookData.address) + ' ' + SelectedPhonbookData.city)}&navigate=yes`)
+    }
+
     return (
         <div className="container-contact">
 
@@ -39,7 +48,7 @@ export default function SinglePersonContact({ SelectedPhonbookData, length, id }
                     <>
                         <div className="name-contact">{SelectedPhonbookData?.firstTitle} {SelectedPhonbookData?.firstName} {SelectedPhonbookData?.lastName} {SelectedPhonbookData?.lastTitle}</div>
                         <div className="container-fields-contact">
-                            <FieldContact icon={addressIcon} headerField="רחוב" field={SelectedPhonbookData?.address} isLink={false} />
+                            <FieldContact icon={addressIcon} headerField="רחוב" field={SelectedPhonbookData?.address} onClickHendler={openWaze} isLink={true} />
                             <FieldContact icon={cityIcon} headerField="עיר" field={SelectedPhonbookData?.city} isLink={false} />
                             <FieldContact icon={homePhoneIcon} headerField="טלפון" field={SelectedPhonbookData?.homePhone} onClickHendler={openCall} isLink={true} />
                             <FieldContact icon={mobileIcon} headerField="נייד" field={SelectedPhonbookData?.mobile} onClickHendler={openCall} isLink={true} />
