@@ -35,7 +35,7 @@ export default function SinglePersonContact({ SelectedPhonbookData, length, id }
     };
 
     function openWaze() {
-        Linking.openURL(`https://waze.com/ul?q=${encodeURIComponent(formatAddress(SelectedPhonbookData.address) + ' ' + SelectedPhonbookData.city)}&navigate=yes`)
+        Linking.openURL(`geo:0,0?q=${encodeURIComponent(formatAddress(SelectedPhonbookData.address) + ' ' + SelectedPhonbookData.city)}`)
     }
 
     return (
