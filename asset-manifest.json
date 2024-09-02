@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Phonbook-Erloy/static/css/main.b69c4467.chunk.css",
-    "main.js": "/Phonbook-Erloy/static/js/main.810f75b5.chunk.js",
-    "main.js.map": "/Phonbook-Erloy/static/js/main.810f75b5.chunk.js.map",
+    "main.css": "/Phonbook-Erloy/static/css/main.c4d13669.chunk.css",
+    "main.js": "/Phonbook-Erloy/static/js/main.00fed1ee.chunk.js",
+    "main.js.map": "/Phonbook-Erloy/static/js/main.00fed1ee.chunk.js.map",
     "runtime~main.js": "/Phonbook-Erloy/static/js/runtime~main.28bffc80.js",
     "runtime~main.js.map": "/Phonbook-Erloy/static/js/runtime~main.28bffc80.js.map",
     "static/js/2.f6ab43fb.chunk.js": "/Phonbook-Erloy/static/js/2.f6ab43fb.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/3.a50d1155.chunk.js": "/Phonbook-Erloy/static/js/3.a50d1155.chunk.js",
     "static/js/3.a50d1155.chunk.js.map": "/Phonbook-Erloy/static/js/3.a50d1155.chunk.js.map",
     "index.html": "/Phonbook-Erloy/index.html",
-    "precache-manifest.50d99732655bb9afb23900ccf621e9da.js": "/Phonbook-Erloy/precache-manifest.50d99732655bb9afb23900ccf621e9da.js",
+    "precache-manifest.f0b478383d470d61daca5e6a0d471d8a.js": "/Phonbook-Erloy/precache-manifest.f0b478383d470d61daca5e6a0d471d8a.js",
     "service-worker.js": "/Phonbook-Erloy/service-worker.js",
-    "static/css/main.b69c4467.chunk.css.map": "/Phonbook-Erloy/static/css/main.b69c4467.chunk.css.map",
+    "static/css/main.c4d13669.chunk.css.map": "/Phonbook-Erloy/static/css/main.c4d13669.chunk.css.map",
     "static/media/logo-big.png": "/Phonbook-Erloy/static/media/logo-big.b111a28f.png",
     "static/media/logo.png": "/Phonbook-Erloy/static/media/logo.50b8b069.png"
   }
